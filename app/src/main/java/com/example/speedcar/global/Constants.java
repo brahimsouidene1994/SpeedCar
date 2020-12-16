@@ -1,4 +1,4 @@
-package com.example.speedcar;
+package com.example.speedcar.global;
 
 public class Constants {
     public final static long SPLASH_DELAY = 3*1000;

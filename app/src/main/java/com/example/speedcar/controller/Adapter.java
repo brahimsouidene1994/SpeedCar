@@ -1,4 +1,4 @@
-package com.example.speedcar;
+package com.example.speedcar.controller;
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -8,6 +8,9 @@ import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
+
+import com.example.speedcar.R;
+import com.example.speedcar.model.Car;
 
 import java.util.ArrayList;
 

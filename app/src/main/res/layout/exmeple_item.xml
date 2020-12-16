@@ -3,13 +3,13 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    app:cardCornerRadius="4dp">
+    app:cardCornerRadius="10dp">
 
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_margin="4dp"
-        android:background="#DCB9C5">
+        >
 
         <ImageView
             android:id="@+id/imageCar"
@@ -23,6 +23,7 @@
             android:layout_height="wrap_content"
             android:layout_alignParentTop="true"
             android:layout_toEndOf="@id/imageCar"
+            android:layout_marginStart="8dp"
             android:text="Type"
             android:textSize="20sp"
             android:textStyle="bold" />

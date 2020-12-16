@@ -1,4 +1,4 @@
-package com.example.speedcar;
+package com.example.speedcar.model;
 
 public class Car {
     private String type;

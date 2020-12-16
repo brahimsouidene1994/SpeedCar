@@ -1,10 +1,12 @@
-package com.example.speedcar;
+package com.example.speedcar.controller;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 import android.widget.ImageView;
 import android.widget.TextView;
+
+import com.example.speedcar.R;
 
 public class CarDetailActivity extends AppCompatActivity {
 

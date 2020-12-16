@@ -1,10 +1,13 @@
-package com.example.speedcar;
+package com.example.speedcar.controller;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
+
+import com.example.speedcar.global.Constants;
+import com.example.speedcar.R;
 
 public class SplashActivity extends AppCompatActivity {
 
